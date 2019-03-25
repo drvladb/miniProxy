@@ -1,10 +1,14 @@
-# miniProxy
+# miniPxy
 
-*by Joshua Dick*
+*Original by Joshua Dick*
+*Modified by V*
+
 
 *[http://joshdick.github.io/miniProxy][1]*
 
 ---
+## Major Modifications
+Baisic URL Encriptions
 
 ## About miniProxy
 
